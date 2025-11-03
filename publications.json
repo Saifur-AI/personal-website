@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Deep Learning for Medical Imaging",
+    "authors": "Firstname Lastname, A. Collaborator",
+    "venue": "Journal of AI Research",
+    "year": "2024",
+    "url": "https://example.com/paper1"
+  },
+  {
+    "title": "Explainable AI in Education",
+    "authors": "Firstname Lastname, B. Researcher",
+    "venue": "Conference on Human-Centered AI",
+    "year": "2023",
+    "url": "https://example.com/paper2"
+  }
+]
